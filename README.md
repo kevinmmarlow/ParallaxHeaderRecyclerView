@@ -7,6 +7,8 @@ To use, extend the `ParallaxHeaderRecyclerAdadpter` class and add your inflated 
     View customHeader = LayoutInflater.from(this).inflate(R.layout.custom_header_view, null);
     adapter.setParallaxHeader(customHeader, mRecyclerView);
 
+![alt tag](https://github.com/kevinmmarlow/ParallaxHeaderRecyclerView/blob/master/ParallaxHeaderRecyclerView.gif)
+
 This library will be available via Gradle soon.
 
 
