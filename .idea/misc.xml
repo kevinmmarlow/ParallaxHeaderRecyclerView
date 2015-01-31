@@ -9,7 +9,7 @@
     <option name="id" value="1407367379702" />
     <option name="name" value="default" />
     <option name="optimizeImports" value="false" />
-    <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../Lookout/les-client/app/config/eclipse/EclipseCodingConventions.xml" />
+    <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../Lookout/les-client/config/eclipse/EclipseCodingConventions.xml" />
     <option name="selectedJavaProfile" value="Flexilis Conventions" />
   </component>
   <component name="EntryPointsManager">
